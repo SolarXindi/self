@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Who am I
 
-You can use the [editor on GitHub](https://github.com/SolarXindi/self/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey, I am Xindi, I am a primarily C# WebAPI / Back-End Developer
+## 9+ years of experience with the following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- C#
+    - WebAPI
+    - MVC
+- SQL
+    - General Querying Statements
+    - Creating new Tables / Stored Procs
+    - Design of entire new Schemas / Databases
+        - For new Projects
+    - Refactoring existing Schemas / Databases
+        - To fit new projects
+        - New features for existing solutions
+    
+## Team Leadership
+- Was a Team Lead of upwards of 12 devs for a multi-million dollar project
+    - Worked with an Architect to maintain organizational standards
+- Team Lead for more minor projects with some of the same Developers
+- Mentor junior developers for standards
+- Assist newly hired mid-tier developers to the company's culture and standards
 
-### Markdown
+## Some / Growing Experience in:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- C#
+    - SignalR
+        - For communication involving Long Running Processes
+    - Azure Functions
+        - Including tests that prove that a Queue Trigger is functional
+    - Azure WebJobs
+    - Blazor
+        - Small apps that require no Front-End Developers
+    - Swashbuckle (for Swagger)
+    - Testing
+        - Unit Tests (nUnit)
+        - Integration Tests (nUnit)
+        - Functional Tests (using SpecFlow)
+- Python:
+    - Discord dot py (wrote a small Discord Bot to read an RSS feed)
+    - General Programming Practices
 
-```markdown
-Syntax highlighted code block
+## Other Misc. Experience
+- Azure DevOps Board Management
+- Application Insights dashboarding
+    - Log data into Azure Application Insights for consumption
 
-# Header 1
-## Header 2
-### Header 3
+## Proudest Achievements
+Wrote and executed a (mostly) successful migration of over 200 million records from a Microsoft SQL Server (COBOL schema*) to another freshly designed / built Microsoft SQL Server, using a multi-threaded (spawns new processes) C# program to migrate in "phases" based on data hierarchy (parent data first then move onto children)
 
-- Bulleted
-- List
+*COBOL Schema means all columns are six characters (e.g. SYSDAT), no foreign keys / data integrity and no individual table primary keys
 
-1. Numbered
-2. List
+## Basic summary of Experience:
+Biogenetics Related - Senior Developer: 2020 to Present
+State Government - Team Lead / Senior Developer: 2017 to 2020
+State Government - Junior Developer: 2013 to 2017
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SolarXindi/self/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want to contact me, email me @xindi.dev with any prefix
